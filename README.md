@@ -16,5 +16,7 @@ Desafio proposto no programa Explorer da Rocketseat, a proposta era desenvolver 
 
  <a href="https://formulariomentoriastage02.netlify.app/" target="_blank">Formulário de Mentoria</a>
 
+## Imagem de referência
 
+<img src="https://github.com/jscloneski/formulario-mentoria/blob/main/2022-08-25%2021_15_59-Window.png">
 
